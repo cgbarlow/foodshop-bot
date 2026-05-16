@@ -1,5 +1,4 @@
 category,generic_item,exact_name
-Bakery,Bread,Bread
 Bakery,Bread,Freyas Bread Soy/linseed 750gm
 Bakery,Bread,Gerrys Super Bread 570g
 Bakery,Buns,Gerry's High Protein Buns 4 pack
@@ -8,22 +7,16 @@ Bakery,Burger Buns (GF),Gf buns
 Bakery,Hot Cross Buns,WW Traditional Hot Cross buns 6pk
 Bakery,Keto Bread,Keto bread
 Bakery,Pies,Victor pies
-Bakery,Pizza Base,Bases
 Bakery,Pizza Base,Giannis Gluten Free Pizza Bases 2pk
 Bakery,Pizza Base,Home St Sprouted Pizza Bases GF 2pk
 Bakery,Pizza Base,Turkish Pizza Bases 450g
 Bakery,Pizza Base,Venerdi Gltn Freedom Crispy Pizza Bases
 Bakery,Pizza Base (GF),Gf bases
-Bakery,Pork Buns,Buns pork x 1
-Bakery,Red Bean Buns,Buns red bean
 Bakery,Tacos,Farrahs Low Carb Ultra Keto Taco 8pk
 Bakery,Tortillas (GF),Gf tortillas
 Bakery,Wraps,Farrahs Wraps Spinach 450gm
-Bakery,Wraps,Wraps
-Beverages,Beer,Beer
 Beverages,Beer,Peroni 0Percent Bottles 12Pack 330ml
 Beverages,Coffee Bags,Coffee bags
-Beverages,Coffee Beans,Coffee beans
 Beverages,Coffee Beans,Hummingbird H/Select Beans 200g
 Beverages,Cordial,Oh Bubbles Eldrflur Conc Syrup 500ml
 Beverages,Soda Syrup,7 Up Free Sodastream 440ml
@@ -31,72 +24,45 @@ Beverages,Tea,Dilmah Pure Ceylon Green 100s teabags
 Beverages,Wine,Red wine
 Canned Goods,Anchovies,Anchovies
 Canned Goods,Beans,Black beans or kidney beans
-Canned Goods,Black Beans,Black beans
 Canned Goods,Black Beans,Black beans 1/2 can
-Canned Goods,Chickpeas,2 x chickpeas cans
-Canned Goods,Chickpeas,Chickpeas 1/2 can
 Canned Goods,Chickpeas,WW Chickpeas NAS 420g
-Canned Goods,Chilli Beans,Chilli beans
 Canned Goods,Chilli Beans,Watties Mild Chilli Beans 420gm
-Canned Goods,Tomatoes,5 × 400 g tins peeled plum tomatoes
-Canned Goods,Tomatoes,Chopped tomatoes
 Canned Goods,Tomatoes,Essentials Tomatoes Diced 400g
 Canned Goods,Tomatoes,Essentials Whole Peeled Tomatoes 400g
-Canned Goods,Tuna,Big tuna
-Canned Goods,Tuna,Tuna
 Canned Goods,Tuna,WW Tuna Tomato & Basil 95g
 Cereals & Breakfast,Cereal,Hubbard Cluster Crispy Flakes Very Berry 475g
-Cereals & Breakfast,Cereal,Kids cereal
-Cereals & Breakfast,Granola,Granola
 Cereals & Breakfast,Granola,Orchard Valley Almd Cashew Granola 300g
 Cereals & Breakfast,Granola,Orchard Valley Rasp Crnbry Granola 300g
 Condiments & Sauces,Curry Sauce,LKK Ready Sauce for Thai Green Curry 120g
 Condiments & Sauces,Mayonnaise,Heinz Original Mayonnaise 500ml
-Condiments & Sauces,Mayonnaise,Mayo
 Confectionery,Chewing Gum,Mentos Cube Gum Fresh Mint 46g
 Confectionery,Chewing Gum,Mentos Pure Gum Spearmint 68g
-Confectionery,Chocolate,Dark chocolate
 Confectionery,Chocolate,Lindt Gold Bunny Dark Choc 200g
 Confectionery,Chocolate,Lindt Lindor Mini Eggs Asstd 300g
 Confectionery,Chocolate,Whittakers Blk B/sweet Dark 250g
-Dairy,Butter,50 g butter
 Dairy,Butter,Anchor Zero Lacta 500g
-Dairy,Cheese,Cheese
-Dairy,Cheese,Cheese x 2
 Dairy,Cheese,Puhoi Cheese Double Cream 220g
-Dairy,Eggs,Eggs
 Dairy,Eggs,Macro Free Range MixedGrade Eggs 12pk
-Dairy,Milk,500 ml milk
-Dairy,Milk,Dairy milk
 Dairy,Milk,LRC Jersey Milk Non Homogenised 1.5L
-Dairy,Milk,Milk x 4
 Dairy,Yoghurt,Chobani Greek Yogurt Pot P'fruit 160g
 Dairy,Yoghurt,Chobani Greek Yogurt Pot Strawberry 160g
 Dairy,Yoghurt,Chobani Yoghurt Vanilla P/Lime 160g
 Dairy,Yoghurt,De Winkel Plain Unsweet 1kg
-Dairy,Yoghurt,"Yoghurt for dad, K, V"
 Dairy Alternative,Soy Cream,Alpro Soy Cream Regular 250ml
-Dairy Alternative,Soy Cream,Soy cream
 Dairy Alternative,Soy Milk,Macro Organic Soy Milk 1L
 Dairy Alternative,Whipped Cream,Soy whipped cream
 Dairy Alternative,Yoghurt,Plant Culture Yoghurt Vanilla 400g
-Deli,Bacon,Bacon
 Deli,Bacon,WW Bacon Streaky Honey 250g
 Deli,Chorizo,Beehive Chorizo Sticks 150g
-Deli,Chorizo,Chorizo x 2
 Deli,Dip,Lisas Dip Hummus Capsicum 200g
 Deli,Ham or Chicken,Ham or shredded chicken
 Deli,Hummus,Hummus
-Deli,Hummus,Hummus x 2
-Deli,Salami,Salami
 Deli,Salami,Verkerks Danish Salami 100g
-Deli,Salami,Verkerks Danish Salami 300g
 Deli,Salami Sticks,Salami sticks
 Deli,Sliced Ham,WW Champagne Ham Sliced Prepacked
 Frozen,Blueberries,Blueberries
 Frozen,Chicken,1 pack chicken
-Frozen,Chicken Pieces,Chicken pieces x 2
-Frozen,Corn,Corn
+Frozen,Chicken Pieces,Chicken pieces
 Frozen,Corn,Frozen corn
 Frozen,Dumplings,Dumplings
 Frozen,Edamame,Edamame
@@ -104,66 +70,54 @@ Frozen,Frozen Vegetables,Mccain Corn Kernels Super Juicy 1kg
 Frozen,Frozen Vegetables,WW Frozen Peas 1kg
 Frozen,Ice Cream,T Top Trumpet Vegan GF Chocolate 4pk
 Frozen,Mango,Mango
-Frozen,Mango,Mango x 2
 Frozen,Peas,Peas
 Frozen,Peas or Edamame,Peas or edamame
 Frozen,Plant-Based Meat,Bakers Son Vegan Buttery Chicken 200g
+Frozen,Pork Buns,Buns pork
 Frozen,Ready Meal,Ratatouille
+Frozen,Red Bean Buns,Buns red bean
 Frozen,Strawberries,Strawberries
-Household,Aluminium Foil,Aluminum foil
 Household,Aluminium Foil,Essentials Alum Foil Embossed 10mx30cm
 Household,Baking Paper,Armada Baking Paper 50m
-Household,Baking Paper,Baking paper
 Household,Bin Bags,Kitchen bags
 Household,Dish Soap,Dish wash
 Household,Drain Cleaner,Drano Bathroom Wax Gel 1.2L
 Household,Facial Tissues,Kleenex Everyday 2Ply Facial Tiss 200s
-Household,Facial Tissues,Tissues
 Household,Gloves,Chux Extra Comfort Gloves Medium 1pr
-Household,Paper Towels,Paper towel
 Household,Paper Towels,Strike Paper Towel Double Length 2pk
 Household,Stain Remover,Vanish oxy action spray
-Household,Tape,Packing tape
 Household,Tape,Paperclick Clear Tape 3pk
-Household,Tape,Sellotape
 Household,Tape,Sellotape Economy Parcel Tape 48mm
 Household,Toilet Paper,Tp
 Household,Toilet Tissue,Paseo 3 Ply T/tissue 24pk Value
 Meat & Poultry,Chicken,Chicken drum sticks or whole chicken
 Meat & Poultry,Chicken (Ready-to-cook),Rangitikei Korean Style Chicken 400g
 Meat & Poultry,Chicken Breast,WW Chicken Breast Bl/Sl Small
-Meat & Poultry,Lamb,Lamb for bbq
 Meat & Poultry,Lamb,WW Lamb Gourmet Hind Shanks
 Meat & Poultry,Lamb Mince,"Lamb mince (shepherds pie, spaghetti bolognaise, chilli con carne"
-Meat & Poultry,Lamb Shoulder Chops,4 x lamb shoulder chops
+Meat & Poultry,Lamb Shoulder Chops,lamb shoulder chops
 Meat & Poultry,Mince,1kg mince
-Meat & Poultry,Pork,Leftover pork (from p. 26) – about 500 g
-Meat & Poultry,Pork,Pork
 Meat & Poultry,Pork,WW Free Farmed NZ Pork Rump Steak
 Meat & Poultry,Pork,WW Free Farmed Pork Fillet Whole
 Meat & Poultry,Pork Mince,1kg pork mince
 Meat & Poultry,Pork Mince,500g pork mince
 Meat & Poultry,Pork Shoulder,"2.5 kg pork shoulder, boned (not rolled), skin scored"
 Meat & Poultry,Sausages,Hellers Venison Sausage 6pk
-Meat & Poultry,Sausages,Sausies
 Meat & Poultry,Sausages,WW Pork & Fennel Sausages 450g 6pk
 Meat & Poultry,Whole Chicken,Macro Free Range Chicken Whole
 Pantry,Artichokes,Artichokes
 Pantry,Bay Leaves,5 bay leaves
-Pantry,Chia Seeds,Chia
 Pantry,Chia Seeds,Chia seeds
 Pantry,Chicken Stock,Chicken stock
 Pantry,Chilli Flakes,1 tsp dried chilli flakes
 Pantry,Coconut Milk,Ayam 100% Natural Coconut Milk 270ml
-Pantry,Coconut Milk,Coconut milk
-Pantry,Curry,Curry
+Pantry,Dried Fruit,Apricot Turkish
 Pantry,Dried Fruit,Ocean Spray Craisns Original 150g
 Pantry,Flour,50 g flour
 Pantry,Gherkins,Gherkins
 Pantry,Instant Noodles,IndoMie BBQ Chicken Instant Noodles 10pk
 Pantry,Instant Noodles,Indomie Mi Goreng BBQ Chicken 65g x 5pk
 Pantry,Jam,Barker's Jam Strawberry 455g
-Pantry,Jam,Jam
 Pantry,Konjac Rice,Slendier Konjac Rice Style 400g
 Pantry,Lentils,Lentils
 Pantry,Miso Soup,Miso soup
@@ -173,18 +127,14 @@ Pantry,Nut Butter,Forty Thieves SuperFood Choc 500gm
 Pantry,Nutmeg,1 tsp freshly grated nutmeg
 Pantry,Nuts,Macro CB Pecans 70g
 Pantry,Olive Oil,Extra-virgin olive oil
-Pantry,Olive Oil,Olive oil
-Pantry,Olives,Olives
 Pantry,Olives,Sun Harvest Olives Pitted Black 450Gm
 Pantry,Oregano,½ tsp dried oregano
 Pantry,Paprika,Paprika
 Pantry,Passata,Pasatta
-Pantry,Passata,Pasatta x 2
 Pantry,Pasta,12 sheets dried lasagne
 Pantry,Pasta,Fettuccini
 Pantry,Pasta,Spaghetti
 Pantry,Peanut Butter,Fix & Fogg PB Smooth Dbl Trouble 750g
-Pantry,Peanut Butter,Pb
 Pantry,Pickles,Pickles
 Pantry,Quinoa,Quinoa
 Pantry,Ready Meal,Naked Kitchen Eat Wll CauliflwerDhl 450g
@@ -195,14 +145,12 @@ Pantry,Seasoning,Seasoning
 Pantry,Seeds,Cd Sunflwrseed 300g Prdct Of Argentina
 Pantry,Seeds,Macro Chia Seeds Black 350g
 Pantry,Soup,Naked Kitchen Soup Rich Tomato 500g
-Pantry,Soup,Soups x 2
 Pantry,Stock Cubes,Massel Chicken Style S/R Stk Cubes 105g
 Pantry,Sun-Dried Tomatoes,Sun-dried toms
 Pantry,Sweetener,Sweetner
 Pantry,Taco Kit,Taco kit
 Pantry,Thyme,Thyme
 Pantry,Tomato Paste,Essentials Tomato Paste 170g
-Pantry,Tomato Paste,Tomato paste
 Pantry,Tomato Sauce,Half the leftover tomato sauce (from p. 27) – about 300 g
 Personal Care,Cosmetic Pads,Swissers Pads Make Up 80pk
 Personal Care,Deodorant,Dove Wmn Adv 72H Pomegr Deo RO 50ml
@@ -215,67 +163,45 @@ Personal Care,Worming Tablets,Vermox
 Pet Food,Cat Food,Cat food
 Pet Food,Dog Food,Butch White Label 2kg
 Pet Food,Dog Roll,Dog roll
-Produce,Apple,Apple Ambrosia
 Produce,Apple,Apple Ambrosia 1.5kg P/P
-Produce,Apple,Apples
 Produce,Avocado,Avocado Hass
-Produce,Avocado,Avos x 2
 Produce,Banana,Banana Cavendish
-Produce,Banana,Bananas
-Produce,Broccoli,1 head broccoli
-Produce,Broccoli,Broc
 Produce,Broccoli,Broccoli Each
 Produce,Brussels Sprouts,Brussels Sprouts
-Produce,Cabbage,Cabbage
 Produce,Cabbage,Cabbage Green Half
 Produce,Cabbage,Cabbage Green Whole
 Produce,Cabbage,Cabbage Savoy Whole
 Produce,Capsicum,Capsicum
-Produce,Carrot,Carrot
 Produce,Carrot,Carrot Cd 1.5kg
-Produce,Carrot,Carrots
-Produce,Cauliflower,Cauli
-Produce,Cauliflower,Cauliflower
 Produce,Cauliflower,Cauliflower Half
 Produce,Cauliflower,Cauliflower Whole
 Produce,Cherry Tomato,Baby Toms
 Produce,Courgette,Courgette
 Produce,Cucumber,Cucumber Telegraph
-Produce,Dried Fruit,Apricot Turkish
 Produce,Feijoa,Feijoa Loose Medium
 Produce,Garlic,"6 garlic cloves, peeled and smashed"
 Produce,Garlic,Garlic
-Produce,Kumara,1 x purple Kumara
+Produce,Kumara,purple Kumara
 Produce,Leek,Leek Ea
-Produce,Lettuce,Lettuce
 Produce,Lettuce,Lettuce Butter
 Produce,Mixed Fruit,Seasonal fruit
 Produce,Mixed Vegetables,"Veg for rice, pie, or tomato pasta"
 Produce,Mushrooms,WW Mushrooms Swiss Brown 400g
 Produce,Onion,"2 onions, peeled and diced"
 Produce,Onion,Onion
-Produce,Onion,Onions
 Produce,Orange,Orange Navel
-Produce,Orange,Oranges
 Produce,Potato,Potato Vivaldi Gold 2kg
-Produce,Potato,Potatoes
 Produce,Potato,Pukekohe Agria Straight Cut 1kg
 Produce,Rosemary,"4 branches rosemary, leaves stripped (stalks optional for stock)"
 Produce,Tomato,Big Toms
 Seafood,Salmon,Ocean Blue Salmon Cooking Pieces 125g
-Seafood,Salmon,Salmon
 Snacks,Cassava Chips,Cassava chips
 Snacks,Chips,Snackachangi Chips Prawn Cocktail 150g
-Snacks,Corn Chips,Mexicano Corn Chips Tasty Salsa 170g
 Snacks,Corn Chips,Mexicano Corn Chips Tasty Salsa 300g
 Snacks,Corn Chips,Mexicano Sea Salt & Lime Corn Chips 170g
-Snacks,Corn Chips,Nachos
-Snacks,Corn Thins,Corn thins
 Snacks,Corn Thins,RF Corn Thins Sour Cream & Chive 125g
 Snacks,Oaty Slice,M/earth Oaty Slice Anzac 240g
-Snacks,Pecans,Pecans
 Snacks,Popcorn,Pop N Good Popping Corn 500gm
-Snacks,Popcorn,Popcorn
 Snacks,Protein Bars,N&N Protn Nut Bars Dark Choc Cacao 5Pk
 Snacks,Snack Bars,Bars
 Snacks,Snack Bars (Vegan),Bars V
