@@ -1,0 +1,145 @@
+# Grocery List
+
+- Adult toothpaste
+- Aluminium foil
+- Anchovies
+- Apples
+- Artichokes
+- Avocado
+- Baby tomatoes
+- Bacon
+- Baking paper
+- Bananas
+- Bars
+- Bars V
+- Bay leaves
+- Beer
+- Big tomatoes
+- Big tuna
+- Black beans
+- Blueberries
+- Bread
+- Broccoli
+- Buns
+- Butter
+- Cabbage
+- Capsicum
+- Carrot
+- Carrots
+- Cassava chips
+- Cat food
+- Cauliflower
+- Cheese
+- Chia seeds
+- Chicken drumsticks
+- Chicken pieces
+- Chicken stock
+- Chickpeas
+- Chilli beans
+- Chopped tomatoes
+- Chorizo
+- Coconut milk
+- Coffee bags
+- Coffee beans
+- Corn
+- Corn thins
+- Courgette
+- Curry
+- Dairy milk
+- Dark chocolate
+- Dish wash
+- Dog roll
+- Dried chilli flakes
+- Dried oregano
+- Dumplings
+- Edamame
+- Eggs
+- Extra-virgin olive oil
+- Fettuccini
+- Flour
+- Flowers
+- Frozen corn
+- Garlic
+- Gherkins
+- Gluten free buns
+- Gluten free pizza bases
+- Gluten free tortillas
+- Granola
+- Ham
+- Hummus
+- Jam
+- Keto bread
+- Kidney beans
+- Kids cereal
+- Kitchen bags
+- Lamb for bbq
+- Lamb mince
+- Lamb shoulder chops
+- Lasagne sheets
+- Lentils
+- Lettuce
+- Mango
+- Mayo
+- Milk
+- Miso soup
+- Mustard powder
+- Nachos
+- Noodles
+- Nutmeg
+- Olive oil
+- Olives
+- Onion
+- Onions
+- Oranges
+- Packing tape
+- Paper towel
+- Paprika
+- Passata
+- Peanut butter
+- Peas
+- Pecans
+- Pepper
+- Pickles
+- Pizza bases
+- Popcorn
+- Pork
+- Pork buns
+- Pork mince
+- Pork shoulder
+- Potatoes
+- Prawns
+- Purple kumara
+- Quinoa
+- Ratatouille
+- Red bean buns
+- Red wine
+- Rosemary
+- Salami
+- Salami sticks
+- Salmon
+- Salt
+- Sausages
+- Seasonal fruit
+- Seasoning
+- Sellotape
+- Shredded chicken
+- Soups
+- Soy cream
+- Soy whipped cream
+- Spaghetti
+- Strawberries
+- Sun-dried tomatoes
+- Sweetner
+- Taco kit
+- Thyme
+- Tinned plum tomatoes
+- Tissues
+- Toilet paper
+- Tomato paste
+- Tuna
+- Vanish oxy action spray
+- Vermox
+- Victor pies
+- Whole chicken
+- Wraps
+- Yoghurt
