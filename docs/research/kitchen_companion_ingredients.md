@@ -1,6 +1,6 @@
 # `public.ingredients`
 
-91 rows
+177 rows
 
 | id | name | category | created_at | default_unit | is_seasoning |
 | --- | --- | --- | --- | --- | --- |
@@ -95,3 +95,89 @@
 | faa444c9-7422-4072-bbc6-e72de751a15b | Aubergine | Fruit & Veges | 2025-02-15 00:31:26.656872+00 | unit | f |
 | 967534a2-dc3b-48a8-bd83-5aa23e863e22 | Smoked Paprika | General | 2025-02-15 00:34:24.899787+00 | tsp | f |
 | 07e44479-7646-493a-94de-697fd2a7b370 | Mixed herbs | General | 2025-02-15 00:34:49.444815+00 | tsp | f |
+|  | Apples | Fruit & Veges |  | unit | f |
+|  | Artichokes | Fruit & Veges |  | unit | f |
+|  | Avocado | Fruit & Veges |  | unit | f |
+|  | Baby tomatoes | Fruit & Veges |  | punnet | f |
+|  | Bananas | Fruit & Veges |  | unit | f |
+|  | Blueberries | Fruit & Veges |  | punnet | f |
+|  | Mango | Fruit & Veges |  | unit | f |
+|  | Oranges | Fruit & Veges |  | unit | f |
+|  | Purple kumara | Fruit & Veges |  | g | f |
+|  | Seasonal fruit | Fruit & Veges |  | unit | f |
+|  | Strawberries | Fruit & Veges |  | punnet | f |
+|  | Chicken drumsticks | Meats |  | piece | f |
+|  | Chicken pieces | Meats |  | g | f |
+|  | Chorizo | Meats |  | g | f |
+|  | Lamb for bbq | Meats |  | g | f |
+|  | Lamb shoulder chops | Meats |  | piece | f |
+|  | Pork | Meats |  | g | f |
+|  | Pork mince | Meats |  | g | f |
+|  | Pork shoulder | Meats |  | g | f |
+|  | Salami sticks | Meats |  | unit | f |
+|  | Bars | General |  | bar | f |
+|  | Bars V | General |  | bar | f |
+|  | Bay leaves | General |  | sprinkle | t |
+|  | Beer | General |  | bottle | f |
+|  | Big tuna | General |  | can | f |
+|  | Cassava chips | General |  | g | f |
+|  | Chia seeds | General |  | tbsp | f |
+|  | Coconut milk | General |  | can | f |
+|  | Coffee bags | General |  | bag | f |
+|  | Coffee beans | General |  | g | f |
+|  | Corn thins | General |  | unit | f |
+|  | Curry | General |  | tbsp | f |
+|  | Dark chocolate | General |  | g | f |
+|  | Dried chilli flakes | General |  | sprinkle | t |
+|  | Granola | General |  | cup | f |
+|  | Jam | General |  | tbsp | f |
+|  | Kidney beans | General |  | can | f |
+|  | Kids cereal | General |  | cup | f |
+|  | Lasagne sheets | General |  | sheet | f |
+|  | Lentils | General |  | cup | f |
+|  | Miso soup | General |  | sachet | f |
+|  | Mustard powder | General |  | tsp | t |
+|  | Noodles | General |  | g | f |
+|  | Nutmeg | General |  | sprinkle | t |
+|  | Paprika | General |  | tsp | t |
+|  | Peanut butter | General |  | tbsp | f |
+|  | Pecans | General |  | g | f |
+|  | Pickles | General |  | jar | f |
+|  | Popcorn | General |  | g | f |
+|  | Quinoa | General |  | cup | f |
+|  | Ratatouille | General |  | can | f |
+|  | Red wine | General |  | bottle | f |
+|  | Rosemary | General |  | sprinkle | t |
+|  | Seasoning | General |  | sprinkle | t |
+|  | Soups | General |  | can | f |
+|  | Sweetner | General |  | tsp | t |
+|  | Tinned plum tomatoes | General |  | can | f |
+|  | Tuna | General |  | can | f |
+|  | Butter | Chilled |  | g | f |
+|  | Soy whipped cream | Chilled |  | ml | f |
+|  | Yoghurt | Chilled |  | tbsp | f |
+|  | Edamame | Frozen |  | cup | f |
+|  | Pork buns | Frozen |  | unit | f |
+|  | Red bean buns | Frozen |  | unit | f |
+|  | Victor pies | Frozen |  | unit | f |
+|  | Bread | Bakery |  | slice | f |
+|  | Buns | Bakery |  | unit | f |
+|  | Gluten free buns | Bakery |  | unit | f |
+|  | Gluten free tortillas | Bakery |  | unit | f |
+|  | Keto bread | Bakery |  | slice | f |
+|  | Wraps | Bakery |  | unit | f |
+|  | Adult toothpaste | Household |  | tube | f |
+|  | Aluminium foil | Household |  | roll | f |
+|  | Baking paper | Household |  | roll | f |
+|  | Cat food | Household |  | can | f |
+|  | Dish wash | Household |  | bottle | f |
+|  | Dog roll | Household |  | roll | f |
+|  | Flowers | Household |  | bunch | f |
+|  | Kitchen bags | Household |  | roll | f |
+|  | Packing tape | Household |  | roll | f |
+|  | Paper towel | Household |  | roll | f |
+|  | Sellotape | Household |  | roll | f |
+|  | Tissues | Household |  | box | f |
+|  | Toilet paper | Household |  | roll | f |
+|  | Vanish oxy action spray | Household |  | bottle | f |
+|  | Vermox | Household |  | tablet | f |
